@@ -1,3 +1,4 @@
+//This is a comment
 cmake_minimum_required(VERSION 3.26)
 project(Final_Project_Code)
 
