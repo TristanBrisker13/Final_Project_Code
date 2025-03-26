@@ -8,7 +8,7 @@ using namespace std;
 
 class system{
 private:
-    string username, username2, username3, password, password2, password3;
+    string username, username2, username3, password, password2, password3,useless;
 public:
     int choice;
     int result;
